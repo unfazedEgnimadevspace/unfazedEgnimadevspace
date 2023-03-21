@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Akalugo</h1>
 <h3 align="center">I am a passionate fullstack developer building amazing web apps with ruby on rails and react js</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unfazedegnimadevspace&label=Profile%20views&color=0e75b6&style=flat" alt="unfazedegnimadevspace" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unfazedegnimadevspace" alt="unfazedegnimadevspace" /></a> </p>
