@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/papi_codes" target="blank"><img src="https://img.shields.io/twitter/follow/papi_codes?logo=twitter&style=for-the-badge" alt="papi_codes" /></a> </p>
 
-- 🔭 I’m currently working on [A market place api](https://github.com/unfazedEgnimadevspace/Product-Api)
+- 🔭 I’m currently working on [A fitness routines tracker](https://github.com/unfazedEgnimadevspace/Gracker)
 
 - 🌱 I’m currently learning **Ruby on Rails, React js**
 
