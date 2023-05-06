@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unfazedegnimadevspace" alt="unfazedegnimadevspace" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/papi_codes" target="blank"><img src="https://img.shields.io/twitter/follow/papi_codes?logo=twitter&style=for-the-badge" alt="papi_codes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/papi_codes" target="blank"><img src="https://img.shields.io/twitter/follow/papi_codes?logo=twitter&style=for-the-badge" alt="elusivecodes" /></a> </p>
 
 - 🔭 I’m currently working on [A fitness routines tracker](https://github.com/unfazedEgnimadevspace/Gracker)
 
